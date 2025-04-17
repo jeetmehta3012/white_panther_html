@@ -17,10 +17,10 @@
     width: 72%;
    }
     .tp-about-right-wrap .tp-about-2-thumb-text {
-    bottom: -8px;
+    bottom: -8px !important; 
     }
     .tp-about-right-wrap .tp-about-thumb-sm {
-    bottom: -32px;
+    bottom: -32px !important;
     }
 }
 
