@@ -12,6 +12,12 @@
     }
 }
 
+@media screen and (min-width: 1440px){
+   .about-com-pic::after {
+    width: 72%;
+   }
+}
+
 @media (min-width: 1025px) and (max-width: 1200px) {
     .widget_info{
         display: none !important;
