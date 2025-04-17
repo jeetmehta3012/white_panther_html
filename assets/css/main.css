@@ -168,7 +168,7 @@ li,
 
   .container, .row, [class*="col-"] {
     max-width: 100%;
-    overflow-x: hidden;
+/*     overflow-x: hidden; */
   }
 }
 
@@ -7429,7 +7429,7 @@ body .ui-tooltip {
 .main-header__logo {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: start;
   border-right: 1px solid RGBA(var(--karoons-border-color-rgb, 222, 222, 222), 0.2);
 }
 .main-header__logo a {
@@ -8326,7 +8326,7 @@ body .ui-tooltip {
 }
 @media (max-width: 767px) {
   .tp-slider-3-title {
-    font-size: 39px;
+    font-size: 32px;
   }
 }
 .tp-slider-3-title-box {
