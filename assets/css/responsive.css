@@ -290,6 +290,12 @@
     .work-process-one__col{
         margin-bottom: 35px;
     }
+    .container{
+        max-width: 767px;
+    }
+    .tp-header-style-3 .tp-header-bar button {
+        margin-left: 0 !important;
+    }
     /* .tm-purchase-floating-box {
         right: 7px;
     } */
