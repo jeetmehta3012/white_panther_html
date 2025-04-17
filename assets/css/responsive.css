@@ -16,6 +16,12 @@
    .about-com-pic::after {
     width: 72%;
    }
+    .tp-about-right-wrap .tp-about-2-thumb-text {
+    bottom: -8px;
+    }
+    .tp-about-right-wrap .tp-about-thumb-sm {
+    bottom: -32px;
+    }
 }
 
 @media (min-width: 1025px) and (max-width: 1200px) {
