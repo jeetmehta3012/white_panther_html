@@ -22,6 +22,9 @@
     .tp-about-right-wrap .tp-about-thumb-sm {
     bottom: -32px !important;
     }
+    .tp-blog-thumb-main img {
+    height: 350px !important;
+    }
 }
 
 @media (min-width: 1025px) and (max-width: 1200px) {
