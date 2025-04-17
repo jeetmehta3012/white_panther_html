@@ -157,6 +157,21 @@ li,
   --tp-border-2: #dfdcdc;
 }
 
+@media (max-width: 767px) {
+  body, html {
+    overflow-x: hidden;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .container, .row, [class*="col-"] {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+}
+
 @media (min-width: 1200px) {
   .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
     max-width: 1200px;
@@ -8311,7 +8326,7 @@ body .ui-tooltip {
 }
 @media (max-width: 767px) {
   .tp-slider-3-title {
-    font-size: 40px;
+    font-size: 39px;
   }
 }
 .tp-slider-3-title-box {
