@@ -7611,7 +7611,7 @@ body .ui-tooltip {
 @media (max-width: 767px) {
   .tp-copyright-left p {
     font-size: 14px;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
